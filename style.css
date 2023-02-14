@@ -1,0 +1,33 @@
+[class="welcome"]{
+    	color: white;
+	background-color: #383838;
+    	border: 10px solid #383838;
+    position: absolute;
+	margin-left:350px;
+    transform: translateY(50px);
+    font-size: 50px;
+}
+[class="вход"]{
+    	color: black;
+	background-color: #FFFAFA;
+    	border: 3px solid #383838;
+    position: absolute;
+	margin-left:225px;
+    transform: translateY(250px);
+    font-size: 45px;
+}
+[class="регистрация"]{
+    	color: black;
+	background-color: #FFFAFA;
+    	border: 3px solid #383838;
+    position: absolute;
+	margin-left:750px;
+    transform: translateY(250px);
+    font-size: 45px;
+}
+.вход {
+  text-decoration: none;
+}
+.регистрация {
+  text-decoration: none;
+}
